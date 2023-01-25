@@ -1,0 +1,45 @@
+commit d95768020039d30c920a12c8face0c63bbf041a8
+Author: dpuertavelez <dpuertavelez@gmail.com>
+Date:   Wed Jan 25 12:06:48 2023 -0500
+
+    Cambio de maestría
+
+ Historia.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit e7f5ccb932bd0307e9f3b136710cb3fbb1d479a4
+Author: dpuertavelez <dpuertavelez@gmail.com>
+Date:   Wed Jan 25 12:06:01 2023 -0500
+
+    Cambio de vida
+
+ Historia.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 4d31b5c39be1f8bc9af2960fd9902131ab033e08
+Author: dpuertavelez <dpuertavelez@gmail.com>
+Date:   Wed Jan 25 12:03:29 2023 -0500
+
+    Arranco mi proyecto real con html y css
+
+ blogpost.html   | 10 ++++++++++
+ css/estilos.css |  6 ++++++
+ 2 files changed, 16 insertions(+)
+
+commit 908b694de7ae2850c771088577be33493f314ef6
+Author: dpuertavelez <dpuertavelez@gmail.com>
+Date:   Tue Jan 24 18:50:03 2023 -0500
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+ Historia.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 75f39eeb4f1ffed9b4dfe33c21b5435f5ccf5a70
+Author: dpuertavelez <dpuertavelez@gmail.com>
+Date:   Tue Jan 24 18:44:06 2023 -0500
+
+    Este es el primer commit de esta archivo
+
+ Historia.txt | 5 +++++
+ 1 file changed, 5 insertions(+)
