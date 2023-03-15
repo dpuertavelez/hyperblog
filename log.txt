@@ -1,3 +1,13 @@
+commit 57610b5b9f94541460075b851c3bb4297b88ffbc
+Author: dpuertavelez <dpuertavelez@gmail.com>
+Date:   Wed Jan 25 18:40:15 2023 -0500
+
+    Reemplazo de una versión por otra de la historia
+
+ Historia.txt |  5 ++---
+ log.txt      | 45 +++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 47 insertions(+), 3 deletions(-)
+
 commit d95768020039d30c920a12c8face0c63bbf041a8
 Author: dpuertavelez <dpuertavelez@gmail.com>
 Date:   Wed Jan 25 12:06:48 2023 -0500
